@@ -60,7 +60,7 @@
 
 /* translucent style */
 .lymbyc_ui.skin-black-light .main-sidebar {background: rgba(225, 23, 68, 0.80)!important;border-right: none;}
-.lymbyc_ui.skin-black-light .wrapper {background: url('banner4.png') fixed bottom;}
+.lymbyc_ui.skin-black-light .wrapper {background: url('banner4.png') fixed bottom !important;}
 .lymbyc_ui.skin-black-light .main-header .navbar {background-color: #fff;}
 .lymbyc_ui .box {background-color: rgba(255,255,255,.85);box-shadow: 2px 2px 5px 0px #999;}
 .lymbyc_ui.skin-black-light .content-wrapper { background: #f4f4f4 !important;}
@@ -72,11 +72,11 @@
 .lymbyc_ui .box-header {color: #555 !important;}
 .lymbyc_ui .lymbyc_content_top_preface .description-block {color: #555;}
 .lymbyc_ui .btn-box-tool {color: #555;}
-.lymbyc_ui.skin-black-light .sidebar-menu>li>.treeview-menu {background-color: rgba(225, 0, 0, 0.30)!important}
+.lymbyc_ui.skin-black-light .sidebar-menu>li>.treeview-menu {background-color: rgba(225, 0, 0, 0.30) !important}
 .client_logo {bottom: 0;position:fixed; width:160px;margin: 0 0 3em 4.3em;opacity: 0.2;}
 
-.lymbyc_gray.skin-black-light .main-sidebar {background-color: rgba(65,65,65,.85)!important;border-right: none;}
-.lymbyc_gray.skin-black-light .wrapper {background: url('banner4.png') fixed bottom;}
+.lymbyc_gray.skin-black-light .main-sidebar {background-color: rgba(65,65,65,.85) !important;border-right: none;}
+.lymbyc_gray.skin-black-light .wrapper {background: url('banner4.png') fixed bottom !important;}
 .lymbyc_gray.skin-black-light .main-header .navbar {background-color: #fff;}
 .lymbyc_gray .box {background-color: #fff;box-shadow: 1px 2px 4px 0px #999;}
 .lymbyc_gray.skin-black-light .content-wrapper { background: #e4e5e6 !important;}
@@ -88,9 +88,9 @@
 .lymbyc_gray .box-header {color: #555 !important;}
 .lymbyc_gray .lymbyc_content_top_preface .description-block {color: #555;}
 .lymbyc_gray .btn-box-tool {color: #555;}
-.lymbyc_gray.skin-black-light .sidebar-menu>li>.treeview-menu {background-color: rgba(19, 10, 10, 0.4)!important;}
+.lymbyc_gray.skin-black-light .sidebar-menu>li>.treeview-menu {background-color: rgba(19, 10, 10, 0.4) !important;}
 .lymbyc_gray .lymbyc-logo-sm img {width: 130px;margin: 10px 0 0 0;}
 
-.lymbyc_red.skin-black-light .main-sidebar {background: rgba(75, 49, 49, 0.85)!important;}
-.lymbyc_blue.skin-black-light .main-sidebar {background: rgba(57, 68, 92, 0.85)!important;}
-.lymbyc_purple.skin-black-light .main-sidebar {background: rgba(64, 47, 73, 0.85)!important;}
+.lymbyc_red.skin-black-light .main-sidebar {background: rgba(75, 49, 49, 0.85) !important;}
+.lymbyc_blue.skin-black-light .main-sidebar {background: rgba(57, 68, 92, 0.85) !important;}
+.lymbyc_purple.skin-black-light .main-sidebar {background: rgba(64, 47, 73, 0.85) !important;}
